@@ -2,6 +2,10 @@
 
 > Project developed for sending .csv files and inserting the collected data into the database.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/charleseduardome/gofinances/blob/master/preview.gif">
+</p>
+
 ## Used
 
 - ReactJs
